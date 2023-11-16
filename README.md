@@ -5,7 +5,7 @@ I'm Bravo, studying for Computer Science at Fresno State! Class of 2025. Aside f
 Here's a little bit about me:
 - ⛏️ I started making Minecraft animations at age 11, for fun. Worked for various Youtubers. Uploaded on my [Youtube Channel](https://www.youtube.com/channel/UCGy1MGq1qcujetf7GqPCITQ).
 - ⌨️ Properly started learning how to code at age 12. Currently proficient in C#, C++. Learning Rust.
-- 🎮 Started learning how to use Unity at age 13. Made a couple of small games on [Itch](https://braveo.itch.io/). 
+- 🎮 Started learning how to use Unity at age 13. Made a couple of small games on [Itch](https://braveo.itch.io/). Learning Godot.
 - 🟦 Released my first major game in 2021, titled RAYBOUND. It is free on [Steam](https://store.steampowered.com/app/1626370/Raybound/). 
 - 🪨 Currently working on an unnamed sequel during my free time as I keep studying.
 
