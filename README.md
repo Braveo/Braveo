@@ -1,4 +1,4 @@
-### Doesn't matter what time of day it is. It is always a good morning for you. 👋
+### Good morning. 👋
 
 I'm Bravo, studying for Computer Science at Fresno State! Class of 2025. Aside from Computer Science, I'm a jack of all trades hobbyist artist, meaning I do 3D art, 2D art, animation, music, and storytelling. This all culminates into hobbyist game development.
 
