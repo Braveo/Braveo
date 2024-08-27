@@ -1,4 +1,4 @@
-### Good morning. 👋
+## Good morning. 👋
 
 I'm Bravo, studying for Computer Science at Fresno State! Class of 2025. Aside from Computer Science, I'm a jack of all trades hobbyist artist, meaning I do 3D art, 2D art, animation, music, and storytelling. This all culminates into hobbyist game development.
 
@@ -8,6 +8,28 @@ Here's a little bit about me:
 - 🎮 Started learning how to use Unity at age 13. Made a couple of small games on [Itch](https://braveo.itch.io/). Learning Godot.
 - 🟦 Released my first major game in 2021, titled RAYBOUND. It is free on [Steam](https://store.steampowered.com/app/1626370/Raybound/). 
 - 🦌 Currently working on RAYBOUND: SUBNOVIAN LEGEND during my free time as I keep studying.
+
+## Notable Works
+
+### Games
+
+| GAME | ROLE | TEAM | ENGINE | MISC |
+| ---- | ---- | ---- | ------ | ---- |
+| [Raybound (2018)](https://store.steampowered.com/app/1626370/Raybound/) | solo | Bravo | UNITY | My first major indie game. |
+| Raybound: Subnovian Legend (TBD) | solo | Bravo | UNITY | My second major indie game. |
+
+### Game Jams
+
+| GAME | ROLE | TEAM | ENGINE | JAM |
+| ---- | ---- | ---- | ------ | --- |
+| [Unit Projectile (2019)](https://braveo.itch.io/unit-projectile) | solo developer | Bravo | UNITY | GMTK 2019 |
+| [The Curse of Tableau (2020)](https://braveo.itch.io/curse-of-tableau) | solo developer | Bravo | UNITY | GMTK 2019 |
+| [Super Short Star Platformer (2020)](https://braveo.itch.io/short-star-platformer) | solo developer | Bravo | UNITY | SylvieFluff's Unofficial Game Jam |
+| [Firebrand (2021)](https://merlebirb.itch.io/firebrand) | programmer & level design | Bravo, Merle | UNITY | Brackeys Jame Jam 2021.1 |
+| [Supercool Action Fishing (2023)](https://braveo.itch.io/supercoolactionfishing) | programmer & level design | Bravo, Merle, Claire | UNITY | GMTK 2023 |
+| [The Whimsical Adventure of Bailey and Kakyit: A Tale of Scale (2024)](https://braveo.itch.io/bailey-and-kakyit) | programmer | Bravo, Claire | GODOT | GMTK 2024 |
+
+### 
 
 <!--
 **Braveo/Braveo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
