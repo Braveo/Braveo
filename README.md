@@ -25,8 +25,8 @@ Here's a little bit about me:
 | [Unit Projectile (2019)](https://braveo.itch.io/unit-projectile) | solo developer | Bravo | ![UNITY](img/icon-unity.png "UNITY") | GMTK 2019 |
 | [The Curse of Tableau (2020)](https://braveo.itch.io/curse-of-tableau) | solo developer | Bravo | ![UNITY](img/icon-unity.png "UNITY") | Paint Jam 2020 |
 | [Super Short Star Platformer (2020)](https://braveo.itch.io/short-star-platformer) | solo developer | Bravo | ![UNITY](img/icon-unity.png "UNITY") | SylvieFluff's Unofficial Game Jam |
-| [Firebrand (2021)](https://merlebirb.itch.io/firebrand) | programmer & level design | Bravo, Merle | ![UNITY](img/icon-unity.png "UNITY") | Brackeys Jame Jam 2021.1 |
-| [Supercool Action Fishing (2023)](https://braveo.itch.io/supercoolactionfishing) | programmer & level design | Bravo, Merle, Claire | ![UNITY](img/icon-unity.png "UNITY") | GMTK 2023 |
+| [Firebrand (2021)](https://merlebirb.itch.io/firebrand) | programmer, level design, music | Bravo, Merle | ![UNITY](img/icon-unity.png "UNITY") | Brackeys Jame Jam 2021.1 |
+| [Supercool Action Fishing (2023)](https://braveo.itch.io/supercoolactionfishing) | programmer, level design | Bravo, Merle, Claire | ![UNITY](img/icon-unity.png "UNITY") | GMTK 2023 |
 | [The Whimsical Adventure of Bailey and Kakyit: A Tale of Scale (2024)](https://braveo.itch.io/bailey-and-kakyit) | programmer | Bravo, Claire | ![GODOT](img/icon-godot.png "GODOT") | GMTK 2024 |
 
 ### 
