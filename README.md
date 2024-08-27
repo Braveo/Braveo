@@ -15,7 +15,7 @@ Here's a little bit about me:
 
 | GAME | ROLE | TEAM | ENGINE | MISC |
 | ---- | ---- | ---- | ------ | ---- |
-| [Raybound (2018)](https://store.steampowered.com/app/1626370/Raybound/) | solo | Bravo | ![UNITY](img/icon-unity.png "UNITY") | My first major indie game. |
+| [Raybound (2021)](https://store.steampowered.com/app/1626370/Raybound/) | solo | Bravo | ![UNITY](img/icon-unity.png "UNITY") | My first major indie game. |
 | Raybound: Subnovian Legend (TBD) | solo | Bravo | ![UNITY](img/icon-unity.png "UNITY") | My second major indie game. Currently work in progress. |
 
 ### Game Jams
