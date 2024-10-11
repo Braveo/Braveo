@@ -16,17 +16,23 @@ There's a bunch of settings for different software that I keep here incase I nee
 
 I like to go for an autumn-winter cozy aesthetic, and make the code editor feel like a glass panel. I spent a whole day configuring this so I thought it'd be nice to write down to help future me read this just in case I somehow lose my ways...
 
-![My VSCode View](/match-my-fit/img/image.png)
-
 ## Theme: [Github Dark](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
 It looks nice but when you I paired it with a background, I needed to change some settings. These specific settings can be found in [```settings.json```](vscode/settings.json).
+
+![My VSCode View](/match-my-fit/img/image.png)
 
 ## Theme: [Dark Gruvboxer](https://marketplace.visualstudio.com/items?itemName=Vizora.gruvboxer)
 
 Dark Gruvboxer is really good when it's night time for some reason.
 
-![](img/20241010210814.png)
+![My VSCode View with Dark Gruvboxer](img/20241010210814.png)
+
+## Theme: [Monokai Pro (Filter Ristretto)](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+
+This theme is good when I'm in the right mood.
+
+![My VSCode View with Monokai Ristretto](img/20241010211354.png)
 
 ## Icon Theme: [Catppuccin Icons for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
 
