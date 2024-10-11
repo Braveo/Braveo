@@ -22,6 +22,12 @@ I like to go for an autumn-winter cozy aesthetic, and make the code editor feel 
 
 It looks nice but when you I paired it with a background, I needed to change some settings. These specific settings can be found in [```settings.json```](vscode/settings.json).
 
+## Theme: [Dark Gruvboxer](https://marketplace.visualstudio.com/items?itemName=Vizora.gruvboxer)
+
+Dark Gruvboxer is really good when it's night time for some reason.
+
+![](img/20241010210814.png)
+
 ## Icon Theme: [Catppuccin Icons for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
 
 This fits the glass panel look I'm trying to go for with the background.
