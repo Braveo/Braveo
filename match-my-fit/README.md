@@ -4,9 +4,13 @@ There's a bunch of settings for different software that I keep here incase I nee
 
 # General
 
-|  |  |  |
-| ---- | -------------------- | ---- |
-| Font | [Mononoki (Nerd Font)](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Mononoki.zip) | I like it |
+<table>
+    <tr>
+        <td>Font</td>
+        <td><a href="https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Mononoki.zip">Mononoki (Nerd Font)</a></td>
+        <td>I like it</td>
+    </tr>
+</table>
 
 # VSCode
 
