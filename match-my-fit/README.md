@@ -14,7 +14,7 @@ There's a bunch of settings for different software that I keep here incase I nee
         <td>Cursor</td>
         <td><a href="https://github.com/black7375/Breeze-Cursors-for-Windows/releases/download/v1.0.0/plasma6.zip">Breeze Cursor for Windows</a></td>
         <td>Breeze 6.1</td>
-    </tr>
+    </tr>`
 </table>
 
 # VSCode
@@ -45,15 +45,36 @@ This fits the glass panel look I'm trying to go for with the background.
 
 ## Extension: [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background)
 
-|   |   |
-| - | - |
-| Image | (varies, but typically art of my sona) |
-| Alignment | Center Center |
-| Blur | 0 |
-| Opacity | 0.12 |
-| Repeat | No Repeat |
-| Size | Auto |
-| Time | 0 seconds (varies, though) |
+<table>
+    <tr>
+        <td>Image</td>
+        <td>(varies, but typically art of my sona)</td>
+    </tr>
+    <tr>
+        <td>Alignment</td>
+        <td>Center Center</td>
+    </tr>
+    <tr>
+        <td>Blur</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Opacity</td>
+        <td>0.08 or 0.10 or 0.12</td>
+    </tr>
+    <tr>
+        <td>Repeat</td>
+        <td>No Repeat</td>
+    </tr>
+    <tr>
+        <td>Size</td>
+        <td>Auto</td>
+    </tr>
+    <tr>
+        <td>Time</td>
+        <td>0 seconds (varies, though)</td>
+    </tr>
+</table>
 
 ## Extension: [Bongo Cat](https://marketplace.visualstudio.com/items?itemName=pixl-garden.BongoCat)
 
