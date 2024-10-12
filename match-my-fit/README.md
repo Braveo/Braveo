@@ -14,7 +14,7 @@ There's a bunch of settings for different software that I keep here incase I nee
         <td>Cursor</td>
         <td><a href="https://github.com/black7375/Breeze-Cursors-for-Windows/releases/download/v1.0.0/plasma6.zip">Breeze Cursor for Windows</a></td>
         <td>Breeze 6.1</td>
-    </tr>`
+    </tr>
 </table>
 
 # VSCode
