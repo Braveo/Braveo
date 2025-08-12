@@ -1,6 +1,6 @@
 ## Good morning. 👋
 
-I'm Bravo, studying for Computer Science at Fresno State! Class of 2025. Aside from Computer Science, I'm a jack of all trades hobbyist artist, meaning I do 3D art, 2D art, animation, music, and storytelling. This all culminates into hobbyist game development.
+I'm Bravo, studying for Computer Science at Fresno State! Class of 2025. Aside from Computer Science, I'm a jack of all trades artist, meaning I do 3D art, 2D art, animation, music, and storytelling. 
 
 Here's a little bit about me:
 - ⛏️ I started making Minecraft animations at age 11, for fun. Worked for various Youtubers. Uploaded on my [Youtube Channel](https://www.youtube.com/channel/UCGy1MGq1qcujetf7GqPCITQ).
@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
