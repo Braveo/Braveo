@@ -2,13 +2,11 @@
     "editor.codeLens": false,
     "rust-analyzer.inlayHints.typeHints.enable": false,
     "rust-analyzer.inlayHints.parameterHints.enable": false,
-    "window.zoomLevel": 1,
     "security.workspace.trust.untrustedFiles": "open",
     "editor.inlineSuggest.showToolbar": "always",
     "[csharp]": {
         "editor.inlineSuggest.suppressSuggestions": true
     },
-    "cmake.showOptionsMovedNotification": false,
     "editor.inlineSuggest.enabled": false,
     "html.autoCreateQuotes": false,
     "workbench.editorAssociations": {
@@ -18,8 +16,11 @@
 
     },
     "catppuccin.syncWithIconPack": false,
+    "background.windowBackgrounds": [
+        "f:/UserFiles/Pictures/ART/Bravo/BIRD/FromOthers/2023/Bravveo-By_mlyeko.png"
+    ],
     "workbench.colorCustomizations": {
-    
+        
         "[GitHub Dark Dimmed]": {
             "editor.background": "#864d4d00",
             "sideBar.background": "#864d4d00",
@@ -65,7 +66,7 @@
             "gitDecoration.submoduleResourceForeground": "#6a737d",
         },
 
-        // LIGHT-ISH TONE
+        // // LIGHT-ISH TONE
 
         // "[GitHub Dark]": {
         //     "editor.background": "#282828",
@@ -160,6 +161,7 @@
         //     "statusBarItem.remoteBackground": "#2a2625",
         //     "menu.background": "#3C3131"
         // },
+
         "[Default Dark Modern]": {
             "editor.background": "#242323",
             "notebook.editorBackground": "#242323",
@@ -188,9 +190,17 @@
 
         "[Monokai Pro (Filter Ristretto)]": {
             "panel.background": "#44000011"
-        }
+        },
+
+        "tree.indentGuidesStroke": "#ffe9e9aa",
+        "tree.inactiveIndentGuidesStroke": "#ffe9e933",
+
     },
-    "editor.fontFamily": "Mononoki",
+    
+    "workbench.tree.indent": 10,
+    "workbench.tree.renderIndentGuides": "always",
+
+    "editor.fontFamily": "Mononoki Nerd Font",
     "editor.semanticTokenColorCustomizations": {
 
         "[Gruvbox Dark Medium]": {
@@ -287,18 +297,18 @@
         "0"
     ],
     "background.backgroundOpacity": [
-        0.12,
+        0.92,
         0.1,
         0.1,
         0.1
     ],
     "background.backgroundSize": [
-        "Auto",
+        "Cover",
         "Cover",
         "Cover",
         "Cover"
     ],
-    "workbench.iconTheme": "catppuccin-mocha",
+    "catppuccin.workbenchMode": "flat",
     "background.backgroundChangeTime": [
         0,
         0,
@@ -309,5 +319,42 @@
     "background.renderContentAboveBackground": false,
     "workbench.productIconTheme": "bongocat",
     "zenMode.hideLineNumbers": false,
-    "workbench.colorTheme": "GitHub Dark"
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "background.useInvertedOpacity": true,
+    "vim.disableExtension": true,
+    "database-client.autoSync": true,
+    "svelte.enable-ts-plugin": true,
+    "[gdscript]": {},
+    "background.autoInstall": false,
+    "chat.commandCenter.enabled": false,
+    "cmake.additionalCompilerSearchDirs": [
+        "C:/msys64/mingw32/bin",
+        "C:/msys64/mingw64/bin",
+        "C:/msys64/clang32/bin",
+        "C:/msys64/clang64/bin",
+        "C:/msys64/clangarm64/bin",
+        "C:/msys64/ucrt64/bin"
+    ],
+    "git.openRepositoryInParentFolders": "never",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Chromium, IndentWidth: 4 }",
+    "helium-icon-theme.showWelcomeMessage": false,
+    "C_Cpp.copilotHover": "disabled",
+    "security.workspace.trust.enabled": false,
+    "python.analysis.typeCheckingMode": "standard",
+    "css.format.braceStyle": "expand",
+    "python.createEnvironment.trigger": "off",
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.defaultColorDecorators": "never",
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off"
+    },
+    "git.autofetch": true,
+    "blender.executables": [
+        {
+            "name": "4.5",
+            "path": "D:\\Programs\\Art\\Blender Foundation\\Blender 4.5\\blender.exe",
+        },
+    ]
 }
