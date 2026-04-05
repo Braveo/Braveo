@@ -1,4 +1,4 @@
-# Match My Fit
+# Match My Software
 
 There's a bunch of settings for different software that I keep here incase I need to reinstall stuff on a different machine, or if I simply forget what settings to set...
 
