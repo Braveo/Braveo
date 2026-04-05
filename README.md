@@ -17,7 +17,7 @@ Here's a little bit about me:
 | GAME | ROLE | TEAM | ENGINE | MISC |
 | ---- | ---- | ---- | ------ | ---- |
 | [Raybound (2021)](https://store.steampowered.com/app/1626370/Raybound/) | solo | Bravo | ![UNITY](img/icon-unity.png "UNITY") | My first major indie game. |
-| Raybound: Subnovian Legend (TBD) | solo | Bravo | ![UNITY](img/icon-unity.png "UNITY") | My second major indie game. Currently work in progress. |
+| Raybound: Subnovian Legend (TBD) | solo | Bravo | ![GODOT](img/icon-godot.png "GODOT") | My second major indie game. Currently work in progress. |
 
 ### Game Jams
 
@@ -29,6 +29,13 @@ Here's a little bit about me:
 | [Firebrand (2021)](https://merlebirb.itch.io/firebrand) | programmer, level design, music | Bravo, Merle | ![UNITY](img/icon-unity.png "UNITY") | Brackeys Jame Jam 2021.1 |
 | [Supercool Action Fishing (2023)](https://braveo.itch.io/supercoolactionfishing) | programmer, level design | Bravo, Merle, Claire | ![UNITY](img/icon-unity.png "UNITY") | GMTK 2023 |
 | [The Whimsical Adventure of Bailey and Kakyit: A Tale of Scale (2024)](https://braveo.itch.io/bailey-and-kakyit) | programmer | Bravo, Claire | ![GODOT](img/icon-godot.png "GODOT") | GMTK 2024 |
+
+### Animated Series
+
+| SHOW | TEAM | ROLE | DESCRIPTION |
+| ---- | ---- | ---- | ----------- | 
+| [FAF Season 2]() | [ZAMination](https://www.youtube.com/@ZAMinationProductions) | 3D Generalist and Pipeline Developer | S2E2: Lighting<br>S2E3: Crowd Anim<br>S2E4,5,6: Environment and Prop Modeling |
+| [Calling All Villains](https://www.youtube.com/watch?v=hIZlkMJ6H0w) | [ZAMination](https://www.youtube.com/@ZAMinationProductions) | Pipeline Developer | TBA
 
 ### 
 
