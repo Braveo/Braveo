@@ -1,6 +1,5 @@
-## Good morning. 👋
-
-I'm Bravo, studying for Computer Science at Fresno State! Class of 2025. Aside from Computer Science, I'm a jack of all trades artist, meaning I do 3D art, 2D art, animation, music, and storytelling. 
+## --- Bravo ---
+Artist and Developer
 
 Here's a little bit about me:
 - ⛏️ I started making Minecraft animations at age 11, for fun. Worked for various Youtubers. Uploaded on my [Youtube Channel](https://www.youtube.com/channel/UCGy1MGq1qcujetf7GqPCITQ).
@@ -8,7 +7,7 @@ Here's a little bit about me:
 - 🎮 Started learning how to use Unity at age 13. Made a couple of small games on [Itch](https://braveo.itch.io/). Learning Godot.
 - 🟦 Released my first major game in 2021, titled RAYBOUND. It is free on [Steam](https://store.steampowered.com/app/1626370/Raybound/).
 - 🖥️ Currently a 3D Generalist and Pipeline Developer at [ZAMination](https://www.youtube.com/channel/UCI_hjK53AIDlpB-Rpr1WnwQ)!
-- 🦌 Currently working on RAYBOUND: SUBNOVIAN LEGEND!
+- 🦌 Currently working on RAYBOUND: SUBNOVIAN LEGEND! 
 
 ## Notable Works
 
