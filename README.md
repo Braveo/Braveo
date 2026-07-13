@@ -34,7 +34,7 @@ Here's a little bit about me:
 | SHOW | TEAM | ROLE | DESCRIPTION |
 | ---- | ---- | ---- | ----------- | 
 | [FAF Season 2]() | [ZAMination](https://www.youtube.com/@ZAMinationProductions) | 3D Generalist and Pipeline Developer | S2E2: Lighting<br>S2E3: Crowd Anim<br>S2E4,5,6: Environment and Prop Modeling |
-| [Calling All Villains](https://www.youtube.com/watch?v=hIZlkMJ6H0w) | [ZAMination](https://www.youtube.com/@ZAMinationProductions) | Pipeline Developer | TBA
+| [Calling All Villains](https://www.youtube.com/watch?v=hIZlkMJ6H0w) | [ZAMination](https://www.youtube.com/@ZAMinationProductions) | Render Technician, Pipeline Developer | TBA
 
 ### 
 
